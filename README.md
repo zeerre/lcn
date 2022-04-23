@@ -1,0 +1,2 @@
+# lcn
+Learn to Code.
